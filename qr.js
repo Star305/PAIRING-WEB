@@ -16,13 +16,12 @@ const MESSAGE = process.env.MESSAGE || `
 https://github.com/GuhailTechInfo/MEGA-AI
 
 *Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.me/Global_TechInfo
-https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+https://whatsapp.com/channel/0029VbBAAKmKgsO2ZeabSd03
 
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/GlobalTechInfo
+not available
 
-*MEGA-AI--WHATSAPP* 🥀
+*STAR CHRISTAL BOT-AI--WHATSAPP* 🥀
 `;
 
 if (fs.existsSync('./auth_info_baileys')) {
